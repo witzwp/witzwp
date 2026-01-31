@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @witzwp
-- 👀 I’m interested in everything cool for effeciency & quality
-- 🌱 I’m currently learning AI
-- 💞️ I’m currently looking to collaborate on cmake build for tensorflow 
-- 📫 you can reach me zhang.appletree@gmail.com or 14788257@qq.com
+# 👋 Hi, I'm Winston (@witzwp)
 
-<!---
-witzwp/witzwp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Building cool things with code. Passionate about efficiency & quality.
+
+---
+
+## 🚀 About Me
+
+- 💡 Interested in everything that boosts **efficiency** & **quality**
+- 🤖 Currently diving deep into **AI** and **Machine Learning**
+- 🔧 Working on **CMake build systems** for **TensorFlow**
+- 🌏 Based in Asia/Shanghai timezone
+
+---
+
+## 🛠️ Tech Stack
+
+```
+AI/ML     ▓▓▓▓▓░░░░░  Learning
+CMake     ▓▓▓▓▓▓▓░░░  Collaborating
+Python    ▓▓▓▓▓▓░░░░  Building
+C++       ▓▓▓▓▓▓░░░░  Building
+```
+
+---
+
+## 📫 Get in Touch
+
+| Email | Description |
+|-------|-------------|
+| [zhang.appletree@gmail.com](mailto:zhang.appletree@gmail.com) | Primary |
+| [14788257@qq.com](mailto:14788257@qq.com) | Alternative |
+
+---
+
+## 🤝 Let's Collaborate
+
+> Currently looking for collaborators on **CMake build for TensorFlow**
+
+If you're interested, feel free to reach out!
+
+---
+
+<!-- 
+🌟 **Pro tip:** You can customize this README even further with:
+- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+- Profile Views Counter
+- Latest Blog Posts
+- Current Project Showcase
+-->
